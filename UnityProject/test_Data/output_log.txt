@@ -1,0 +1,195 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\danie\Documents\Atestat\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\danie\Documents\Atestat\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\danie\Documents\Atestat\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.021 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.337356 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 11a20 -> priority: 1 
+  Thread -> id: 11a24 -> priority: 1 
+  Thread -> id: 11a28 -> priority: 1 
+  Thread -> id: 11a2c -> priority: 1 
+StartNew
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 4.943498 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 626.
+Total: 0.492656 ms (FindLiveObjects: 0.036949 ms CreateObjectMapping: 0.014369 ms MarkObjects: 0.298159 ms  DeleteObjects: 0.142665 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.075828 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.713520 ms (FindLiveObjects: 0.018474 ms CreateObjectMapping: 0.012316 ms MarkObjects: 0.171403 ms  DeleteObjects: 1.510812 ms)
+
+StartNew
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.427995 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.490603 ms (FindLiveObjects: 0.044133 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.280198 ms  DeleteObjects: 0.151902 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.357565 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.631410 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.295080 ms  DeleteObjects: 1.287064 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.434153 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.460838 ms (FindLiveObjects: 0.027198 ms CreateObjectMapping: 0.013342 ms MarkObjects: 0.269934 ms  DeleteObjects: 0.149849 ms)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.374890 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.178782 ms (FindLiveObjects: 0.017961 ms CreateObjectMapping: 0.012316 ms MarkObjects: 0.157547 ms  DeleteObjects: 0.990957 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.521907 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.644558 ms (FindLiveObjects: 0.039001 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.347938 ms  DeleteObjects: 0.244275 ms)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.727448 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.328119 ms (FindLiveObjects: 0.017448 ms CreateObjectMapping: 0.024632 ms MarkObjects: 0.226314 ms  DeleteObjects: 1.059211 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.469049 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.465970 ms (FindLiveObjects: 0.031304 ms CreateObjectMapping: 0.013342 ms MarkObjects: 0.257618 ms  DeleteObjects: 0.152415 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.212211 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.311184 ms (FindLiveObjects: 0.025146 ms CreateObjectMapping: 0.015908 ms MarkObjects: 0.213997 ms  DeleteObjects: 1.055618 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.450062 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.435179 ms (FindLiveObjects: 0.027198 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.249407 ms  DeleteObjects: 0.144717 ms)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.052734 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.244470 ms (FindLiveObjects: 0.032843 ms CreateObjectMapping: 0.011803 ms MarkObjects: 0.194496 ms  DeleteObjects: 1.004813 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+The tree treeModel must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Oak_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 0.437232 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.473668 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.014369 ms MarkObjects: 0.268395 ms  DeleteObjects: 0.159600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.580482 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 1.418439 ms (FindLiveObjects: 0.023093 ms CreateObjectMapping: 0.012316 ms MarkObjects: 0.167811 ms  DeleteObjects: 1.214705 ms)
+
+Exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

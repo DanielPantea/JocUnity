@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1750faec97cf2e4195fc1c02679cc0d
+timeCreated: 1555515146
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adventure Time Logo
+  fontNames:
+  - Adventure Time Logo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
